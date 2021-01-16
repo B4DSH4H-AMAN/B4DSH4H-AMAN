@@ -3,9 +3,9 @@
 ## I'm Gamer, Programmer, Developer, Teacher and Most Important Proud Indian.
 
 - I am currently working as Freelancer on Fiver.
-- I am currently learning everrything I can XD.
+- I am currently learning everything I can XD.
 - I am looking to collaborate with other Devs.
-- 2021 Goals: Grabing a Internship in any of FLAMINGO.
+- 2021 Goals: Grabbing a Internship in any of FLAMINGO.
 - Fun Facts: I am really Good at Cooking even better then Coding.
 
 ### Spotify Playing
