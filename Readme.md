@@ -8,7 +8,7 @@
 - 2021 Goals: Grabbing a Internship in any of FLAMINGO.
 - Fun Facts: I am really Good at Cooking even better then Coding.
 
-https://visitor-badge.glitch.me/badge?page_id=B4DSH4H-AMAN
+<img scr="https://visitor-badge.glitch.me/badge?page_id=B4DSH4H-AMAN">
 
 ### Spotify Playing
 
