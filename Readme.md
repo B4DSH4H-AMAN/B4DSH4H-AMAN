@@ -28,7 +28,7 @@
 
 <br />
 <br />
-
+<img align="left" alt="Akshansh's Visitor Counter" src="https://visitor-badge.glitch.me/badge?page_id=B4DSH4H-AMAN.B4DSH4H-AMAN" />
 ---
 
 [twitter]: https://twitter.com/B4dsh4hA
