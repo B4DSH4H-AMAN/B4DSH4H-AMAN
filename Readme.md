@@ -8,7 +8,7 @@
 - 2021 Goals: Grabbing a Internship in any of FLAMINGO.
 - Fun Facts: I am really Good at Cooking even better then Coding.
 
-<img scr="https://visitor-badge.glitch.me/badge?page_id=B4DSH4H-AMAN">
+<img align="left" alt="Visitor Counter" src="https://visitor-badge.glitch.me/badge?page_id=B4DSH4H-AMAN.B4DSH4H-AMAN" />
 
 ### Spotify Playing
 
@@ -28,9 +28,9 @@
 
 <br />
 <br />
-<img align="left" alt="Akshansh's Visitor Counter" src="https://visitor-badge.glitch.me/badge?page_id=B4DSH4H-AMAN.B4DSH4H-AMAN" />
----
 
+<br />
+<br />
 [twitter]: https://twitter.com/B4dsh4hA
 [instagram]: https://www.instagram.com/godlike_aman/
 [linkedin]: https://www.linkedin.com/in/aman-upadhyay-412307203/
