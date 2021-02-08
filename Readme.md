@@ -11,7 +11,7 @@
 <img align="left" alt="Visitor Counter" src="https://visitor-badge.glitch.me/badge?page_id=B4DSH4H-AMAN.B4DSH4H-AMAN" />
 
 <br />
-<br />
+
 ### Spotify Playing
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="B4DSH4H AMAN Spotify Playing" width="350" />](https://open.spotify.com/user/b3szfsmmqg2v1jlp6d2yv9602)
