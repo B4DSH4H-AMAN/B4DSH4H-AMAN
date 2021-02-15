@@ -2,9 +2,9 @@
 <img src="asset/profile.gif">
 
 <center>
-<p>Hi, I'm Aman Upadhyay, a Full Stack Web Developer(Intermediate) and a Freelancer on [Fiver](https://www.fiverr.com/badshahaman) from Uttar Pradesh, India.</p>
+<p>Hi, I'm Aman Upadhyay, a Full Stack Web Developer(Intermediate) and a Freelancer on ![Fiver](https://www.fiverr.com/badshahaman) from Uttar Pradesh, India.</p>
 <p>
-**Languages and Tools:**
+** Languages and Tools: **
 <br>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
