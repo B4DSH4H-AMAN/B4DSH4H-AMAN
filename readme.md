@@ -29,7 +29,7 @@
 
 #### You can Contact me here:
 
-[<img src='asset/iconfinder_square-linkedin_317725.png' height='30'>](https://www.linkedin.com/in/https://www.linkedin.com/in/aman-upadhyay-412307203//)   [<img src='asset/iconfinder__instagram_1249977.png' alt='instagram' height='30'>](https://www.instagram.com/https://www.instagram.com/godlike_aman//)   [<img src='asset/iconfinder_social_media_applications_6-twitter_4102580.png' alt='twitter' height='30'>](https://twitter.com/https://twitter.com/B4dsh4hA)   [<img src='asset/iconfinder_1_Youtube_colored_svg_5296521.png' alt='YouTube' height='30'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCR4xfjyon5QgHq96t_OGWxQ)  
+[<img src='asset/iconfinder_square-linkedin_317725.png' height='30'>](https://www.linkedin.com/in/aman-upadhyay-412307203/)   [<img src='asset/iconfinder__instagram_1249977.png' alt='instagram' height='30'>](https://www.instagram.com/godlike_aman/)   [<img src='asset/iconfinder_social_media_applications_6-twitter_4102580.png' alt='twitter' height='30'>](https://twitter.com/B4dsh4hA)   [<img src='asset/iconfinder_1_Youtube_colored_svg_5296521.png' alt='YouTube' height='30'>](https://www.youtube.com/channel/UCR4xfjyon5QgHq96t_OGWxQ)  
 
 
 #### Spotify Playing
