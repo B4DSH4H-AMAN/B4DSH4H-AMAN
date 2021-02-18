@@ -49,7 +49,7 @@
 
 📈 My GitHub Stats <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=B4DSH4H-AMAN&show_icons=true&theme=cobalt" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=BADSHAH-AMAN&show_icons=true&theme=cobalt" />
 
 ![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
 
