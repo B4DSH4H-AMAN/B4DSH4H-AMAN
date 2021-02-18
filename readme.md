@@ -54,6 +54,6 @@
 ![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
 
 #### Profile Visiters Count
-![VisitorCount](https://profile-counter.glitch.me/B4DSH4H-AMAN/count.svg)
+![VisitorCount](https://profile-counter.glitch.me/BADSHAH-AMAN/count.svg)
 
 </center>
